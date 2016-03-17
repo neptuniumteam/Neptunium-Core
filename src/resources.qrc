@@ -32,5 +32,6 @@
         <file alias="splash">images/splash.png</file>
         <file alias="cryptonote">images/cryptonote.png</file>
         <file alias="clock">images/clock.gif</file>
+        <file>images/neptuniumicon_small.png</file>
     </qresource>
 </RCC>
